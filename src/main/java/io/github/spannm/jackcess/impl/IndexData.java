@@ -1392,8 +1392,6 @@ public class IndexData {
      *       <td>{@link RussianTextColumnDescriptor}</td><td>any (Russian/Cyrillic collation)</td></tr>
      *   <tr><td>{@link ColumnImpl#TURKISH_SORT_ORDER}</td><td>1055</td><td>0</td>
      *       <td>{@link TurkishTextColumnDescriptor}</td><td>any (Turkish collation)</td></tr>
-     *   <tr><td>{@link ColumnImpl#RUSSIAN_SORT_ORDER}</td><td>1049</td><td>0</td>
-     *       <td>{@link RussianTextColumnDescriptor}</td><td>any (Russian/Cyrillic collation)</td></tr>
      *   <tr><td>{@link ColumnImpl#UKRAINIAN_SORT_ORDER}</td><td>1058</td><td>0</td>
      *       <td>{@link UkrainianTextColumnDescriptor}</td><td>any (Ukrainian/Cyrillic collation)</td></tr>
      *   <tr><td>any other (e.g. Arabic 1025, Greek 1032)</td><td>–</td><td>–</td>
